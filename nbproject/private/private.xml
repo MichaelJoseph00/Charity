@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>inc/footer.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>63</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/charity/login.php</file>
+            <file>file:/C:/xampp/htdocs/charity/donate.php</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/body_block.php</file>
+            <file>file:/C:/xampp/htdocs/charity/admin/inc/topBarNav.php</file>
+            <file>file:/C:/xampp/htdocs/charity/config.php</file>
+            <file>file:/C:/xampp/htdocs/charity/libs/style.css</file>
+            <file>file:/C:/xampp/htdocs/charity/classes/SystemSettings.php</file>
+            <file>file:/C:/xampp/htdocs/charity/index.php</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/topBarNav.php</file>
+            <file>file:/C:/xampp/htdocs/charity/volunteer.php</file>
+            <file>file:/C:/xampp/htdocs/charity/admin/user/manage_user.php</file>
+            <file>file:/C:/xampp/htdocs/charity/submit_volunteer.php</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/navigation.php</file>
+            <file>file:/C:/xampp/htdocs/charity/view_event.php</file>
+            <file>file:/C:/xampp/htdocs/charity/styles.css</file>
+            <file>file:/C:/xampp/htdocs/charity/submit_donation.php</file>
+            <file>file:/C:/xampp/htdocs/charity/classes/DBConnection.php</file>
+            <file>file:/C:/xampp/htdocs/charity/classes/Users.php</file>
+            <file>file:/C:/xampp/htdocs/charity/assets/css/styles.css</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/body_block_end.php</file>
+            <file>file:/C:/xampp/htdocs/charity/donate1.php</file>
+            <file>file:/C:/xampp/htdocs/charity/home.php</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/packages.php</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/page_header.php</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/defaultNav.php</file>
+            <file>file:/C:/xampp/htdocs/charity/admin/inc/header.php</file>
+            <file>file:/C:/xampp/htdocs/charity/inc/header.php</file>
+            <file>file:/C:/xampp/htdocs/charity/initialize.php</file>
+        </group>
+    </open-files>
+</project-private>
